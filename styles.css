@@ -47,6 +47,7 @@ main {
   .purple, .gray, .white1, .white2, .blackish-blue {
     border-radius: 8px;
     padding: 26px 32px;
+    box-shadow: 40px 50px 50px rgba(72, 85, 106, 0.25); 
   }
 
   .purple {
